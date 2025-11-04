@@ -1,0 +1,30 @@
+{
+  "name": "full-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Ayoub-45/CI-CD-pipeline-sall-project#readme",
+  "bugs": {
+    "url": "https://github.com/Ayoub-45/CI-CD-pipeline-sall-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayoub-45/CI-CD-pipeline-sall-project.git"
+  },
+  "license": "ISC",
+  "author": "Ayoub Nasraoui",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.10",
+    "pg": "^8.16.3"
+  }
+}
